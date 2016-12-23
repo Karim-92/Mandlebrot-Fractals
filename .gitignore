@@ -30,3 +30,7 @@
 
 # Images
 *.ppm
+
+# Intellisense files
+*.sdf
+*.db
