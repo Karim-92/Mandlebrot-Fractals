@@ -33,4 +33,4 @@
 
 # Intellisense files
 *.sdf
-*.db
+*.VC.db
